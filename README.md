@@ -130,7 +130,7 @@ Backpropagation is a key technique used in training neural networks through grad
 
 
 ## Usage
-1. Open the `S5.ipynb` file in Jupyter Notebook or any compatible environment.
+1. Open the `S6.ipynb` file in Jupyter Notebook or any compatible environment.
 
 2. Execute the code cells in the notebook to train the model, evaluate it on the test set, and visualize the results
  
