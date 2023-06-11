@@ -114,7 +114,7 @@ Backpropagation is a key technique used in training neural networks through grad
    
    
 # Code
-##Project Structure
+## Project Structure
 **The project has the following structure**:
 
 1. [`S6.ipynb`](https://github.com/Shashank-Gottumukkala/ERA-S6-Backpropagation/blob/main/S6.ipynb) : This is the main notebook where you execute the code. It imports functions and classes from other files and contains the main logic for training and testing the model.
