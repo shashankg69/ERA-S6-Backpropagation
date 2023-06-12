@@ -113,7 +113,7 @@ Backpropagation is a key technique used in training neural networks through grad
    ![2 0](https://github.com/Shashank-Gottumukkala/ERA-S6/assets/59787210/f14f5143-b340-4fd3-b508-5e6d9cc2bc61)
    
    
-# Code
+# Code - MNIST - PyTorch CNN, ~99.4% under 20k Parameters
 ## Project Structure
 **The project has the following structure**:
 
